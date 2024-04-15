@@ -1,0 +1,36 @@
+python manage.py runserver
+
+my system has modules like
+
+1. user signup
+
+user can register using adharnumber
+name 
+dob
+gender
+mobilenumber 
+emailid
+address
+health insurance number 
+password
+
+after login :
+user has modules like
+your profile: name , adharnumber , gender, dob , adress , emailid , health insurance number, and these details would be saved in health card
+add health issue : add current health issue like disease name , symptoms and medicines 
+then current disease and medical history 
+usee can also predict disease input taking 5 symptoms
+
+after predicting the percentage of having this disease 
+medicine and suggested doctor , medicine, diet 
+
+
+
+
+2. doctor signup
+
+a doctor can search for patients and then check their data such as all health card data current discease name, symptoms , medicine , detected date
+and the doctor can also do what all things the patient can do like look at his medical history and predict discease 
+
+
+3. login
